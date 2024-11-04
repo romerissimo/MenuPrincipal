@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Created-By: Martin Romero
+Main-class: MenuPrincipal
+X-COMMENT: Creado con COPILOT Inteligencia Artificial

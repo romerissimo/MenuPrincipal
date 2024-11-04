@@ -1,0 +1,13 @@
+Para crear el archivo .jar (empaquetado) hacer el siguiente comando:
+$ jar cvfm Sistema1.jar MANIFEST.MF Bienvenida.class Licencia.class Principal.class images/coca-logo-blanco.png images/icon.png images/coca-logo-trans.png images/logo-coca.png
+
+Para ver el contenido del Archivo jar
+$ jar tvm Sistema.jar
+
+Para extraer los archivos que estan contenidos en el jar, usar Winzip (extraer Aqui). El jar esta en formato ZIP:
+Click Derecho -> Extaer aqui -> click
+
+
+Crear jar para MenuPrincipal:
+============================
+$ jar cvfm MenuPrincipal.jar MANIFEST.MF MenuPrincipal.class images/icon_martin.png images/foto_martin.png
