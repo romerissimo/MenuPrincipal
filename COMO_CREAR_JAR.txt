@@ -11,3 +11,7 @@ Click Derecho -> Extaer aqui -> click
 Crear jar para MenuPrincipal:
 ============================
 $ jar cvfm MenuPrincipal.jar MANIFEST.MF MenuPrincipal.class images/icon_martin.png images/foto_martin.png
+
+Ejecutar archivo .jar
+=====================
+$ java -jar hola.jar
